@@ -65,7 +65,7 @@
 "     BLOCK miscellaneous replacement macros
 "-------------------------------------------------------------------------------
 "
-REPLACE {$MAX_SUB_$BLOCK} WITH {20}
+REPLACE {$MAX_SUB_$BLOCK} WITH {200}
 REPLACE {$MAX_POINT_$BLOCK} WITH {50}
 "       ==================="
 ;
