@@ -114,7 +114,7 @@ REPLACE {$LOGICAL} WITH {logical}
 
 ;REPLACE {$ND} WITH {2000}  "maximum number of bins for a distribution
 
-REPLACE {$NBINANGLE} WITH {200}; "number of bins for the angular distribution"
+REPLACE {$NBINANGLE} WITH {2000}; "number of bins for the angular distribution"
 
 REPLACE {$MAXANGLE} WITH {0.1745};
 "ANGLE IN RAD, = 10 DEGREES. Very few particles will be scattered at angles"
