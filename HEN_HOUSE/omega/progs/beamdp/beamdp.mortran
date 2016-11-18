@@ -108,7 +108,7 @@ REPLACE {$LOGICAL} WITH {logical}
                           "note: this number should be consistent with
                           "that used in the simulation code (=$MXSMFS in BEAM)
 
-;REPLACE {$NB} WITH {200} "maximum number of bins for a distribution
+;REPLACE {$NB} WITH {2000} "maximum number of bins for a distribution
                           "note: this number should be consistent with
                           "that used in the simulation code
 
