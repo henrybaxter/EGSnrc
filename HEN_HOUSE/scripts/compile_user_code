@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 ###############################################################################
 #
 #  EGSnrc script to compile a EGSnrc user code
